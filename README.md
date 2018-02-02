@@ -1,2 +1,2 @@
 # nts
-spin ⠶ log ⠶ [nts](https://github.com/spin-log/nts/wiki)
+spin ⠶ log ⠶ eln ⠶ [nts](https://github.com/spin-log/eln-nts/wiki)
